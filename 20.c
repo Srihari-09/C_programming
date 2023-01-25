@@ -7,7 +7,7 @@ void main() {
    char str[20];
    int length;
    
-   printf("\nEnter any string : ");
+   printf("\nEnter any alphabatical string : ");
    gets(str);
    
    length = string_ln(str);
